@@ -1,0 +1,1155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="06d0c17c-221a-46ae-9d26-cc7ec48f2e5f" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/.gradle/" />
+    <ignored path="$PROJECT_DIR$/build/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="netty" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="netty" type="f1a62948:ProjectNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="netty" type="f1a62948:ProjectNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+                <item name="main" type="396b929e:GradleViewContributor$SourceSetNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="netty" type="f1a62948:ProjectNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+                <item name="main" type="396b929e:GradleViewContributor$SourceSetNode" />
+                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="netty" type="f1a62948:ProjectNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+                <item name="test" type="396b929e:GradleViewContributor$SourceSetNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="netty" type="f1a62948:ProjectNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+                <item name="test" type="396b929e:GradleViewContributor$SourceSetNode" />
+                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="netty" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="netty">
+      <favorite_root url="file://$PROJECT_DIR$/lib/log4j-1.2.17.jar" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+    </favorites_list>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="HttpHandler.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/NETTY4/HttpHandler.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1100">
+              <caret line="79" column="13" lean-forward="true" selection-start-line="79" selection-start-column="13" selection-end-line="79" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HttpServer.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/NETTY4/HttpServer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="25">
+              <caret line="30" column="5" lean-forward="true" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>doConnect</find>
+      <find>MarshallingCodeCFactory</find>
+      <find>张三</find>
+      <find>channelRead0</find>
+      <find>\—\—\—\—\—\—\—\—\—\—\—\—\—\—\—\—\n版权声明\：本文为CSDN博主\「宿久\」的原创文章\，遵循 CC 4\.0 BY\-SA 版权协议\，转载请附上原文出处链接及本声明\。\n原文链接\：https\:\/\/blog\.csdn\.net\/qq_22200097\/article\/details\/83042424</find>
+      <find>ServerIdleStateHandler</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>F:\work201910\netty\src\main\java\com</dir>
+    </dirStrings>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="myGradleHomes">
+      <map>
+        <entry key="$PROJECT_DIR$" value="E:\Sunyard\moqui\gradle-4.5" />
+      </map>
+    </option>
+    <option name="myGradleVersions">
+      <map>
+        <entry key="$PROJECT_DIR$" value="4.5" />
+      </map>
+    </option>
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="netty" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="netty" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="availableTasks">
+      <map>
+        <entry key="$PROJECT_DIR$">
+          <value>
+            <list>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the components produced by root project 'netty'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="components" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects that depend on it." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="buildDependents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the sub-projects of root project 'netty'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="projects" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="classes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the dependent components of components in root project 'netty'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependentComponents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all buildscript dependencies declared in root project 'netty'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="buildEnvironment" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Gradle wrapper files." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="wrapper" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles test classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="testClasses" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Javadoc API documentation for the main source code." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="javadoc" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles a jar archive containing the main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="jar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the configuration model of root project 'netty'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="model" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes main resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="processResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the tasks runnable from root project 'netty'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="tasks" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Initializes a new Gradle build." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="init" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs the unit tests." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="test" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles main Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="compileJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the insight into a specific dependency in root project 'netty'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependencyInsight" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs all checks." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="check" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the outputs of this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="assemble" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Deletes the build directory." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="clean" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles test Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="compileTestJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all dependencies declared in root project 'netty'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes test resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="processTestResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays a help message." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="help" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="build" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects it depends on." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="buildNeeded" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the properties of root project 'netty'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="properties" />
+              </ExternalTaskPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="4716077160806" />
+        <entry key="$PROJECT_DIR$/.gradle" value="0" />
+        <entry key="$PROJECT_DIR$/build.gradle" value="4031749334" />
+        <entry key="$PROJECT_DIR$/settings.gradle" value="4111266439" />
+      </map>
+    </option>
+    <option name="projectBuildClasspath">
+      <map>
+        <entry key="$PROJECT_DIR$">
+          <value>
+            <ExternalProjectBuildClasspathPojo>
+              <option name="modulesBuildClasspath">
+                <map>
+                  <entry key="$PROJECT_DIR$">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="path" value="$PROJECT_DIR$" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="name" value="netty" />
+              <option name="projectBuildClasspath">
+                <list>
+                  <option value="E:/Sunyard/moqui/gradle-4.5/src/announce" />
+                  <option value="E:/Sunyard/moqui/gradle-4.5/src/antlr" />
+                  <option value="E:/Sunyard/moqui/gradle-4.5/src/base-services" />
+                  <option value="E:/Sunyard/moqui/gradle-4.5/src/base-services-groovy" />
+                  <option value="E:/Sunyard/moqui/gradle-4.5/src/build-cache" />
+                  <option value="E:/Sunyard/moqui/gradle-4.5/src/build-cache-http" />
+                  <option value="E:/Sunyard/moqui/gradle-4.5/src/build-comparison" />
+                  <option value="E:/Sunyard/moqui/gradle-4.5/src/build-init" />
+                  <option value="E:/Sunyard/moqui/gradle-4.5/src/build-option" />
+                  <option value="E:/Sunyard/moqui/gradle-4.5/src/cli" />
+                  <option value="E:/Sunyard/moqui/gradle-4.5/src/code-quality" />
+                  <option value="E:/Sunyard/moqui/gradle-4.5/src/composite-builds" />
+                  <option value="E:/Sunyard/moqui/gradle-4.5/src/core" />
+                  <option value="E:/Sunyard/moqui/gradle-4.5/src/core-api" />
+                  <option value="E:/Sunyard/moqui/gradle-4.5/src/dependency-management" />
+                  <option value="E:/Sunyard/moqui/gradle-4.5/src/diagnostics" />
+                  <option value="E:/Sunyard/moqui/gradle-4.5/src/ear" />
+                  <option value="E:/Sunyard/moqui/gradle-4.5/src/ide" />
+                  <option value="E:/Sunyard/moqui/gradle-4.5/src/ide-native" />
+                  <option value="E:/Sunyard/moqui/gradle-4.5/src/ide-play" />
+                  <option value="E:/Sunyard/moqui/gradle-4.5/src/installation-beacon" />
+                  <option value="E:/Sunyard/moqui/gradle-4.5/src/internal-android-performance-testing" />
+                  <option value="E:/Sunyard/moqui/gradle-4.5/src/internal-integ-testing" />
+                  <option value="E:/Sunyard/moqui/gradle-4.5/src/internal-performance-testing" />
+                  <option value="E:/Sunyard/moqui/gradle-4.5/src/internal-testing" />
+                  <option value="E:/Sunyard/moqui/gradle-4.5/src/ivy" />
+                  <option value="E:/Sunyard/moqui/gradle-4.5/src/jacoco" />
+                  <option value="E:/Sunyard/moqui/gradle-4.5/src/javascript" />
+                  <option value="E:/Sunyard/moqui/gradle-4.5/src/jvm-services" />
+                  <option value="E:/Sunyard/moqui/gradle-4.5/src/language-groovy" />
+                  <option value="E:/Sunyard/moqui/gradle-4.5/src/language-java" />
+                  <option value="E:/Sunyard/moqui/gradle-4.5/src/language-jvm" />
+                  <option value="E:/Sunyard/moqui/gradle-4.5/src/language-native" />
+                  <option value="E:/Sunyard/moqui/gradle-4.5/src/language-scala" />
+                  <option value="E:/Sunyard/moqui/gradle-4.5/src/launcher" />
+                  <option value="E:/Sunyard/moqui/gradle-4.5/src/logging" />
+                  <option value="E:/Sunyard/moqui/gradle-4.5/src/maven" />
+                  <option value="E:/Sunyard/moqui/gradle-4.5/src/messaging" />
+                  <option value="E:/Sunyard/moqui/gradle-4.5/src/model-core" />
+                  <option value="E:/Sunyard/moqui/gradle-4.5/src/model-groovy" />
+                  <option value="E:/Sunyard/moqui/gradle-4.5/src/native" />
+                  <option value="E:/Sunyard/moqui/gradle-4.5/src/osgi" />
+                  <option value="E:/Sunyard/moqui/gradle-4.5/src/persistent-cache" />
+                  <option value="E:/Sunyard/moqui/gradle-4.5/src/platform-base" />
+                  <option value="E:/Sunyard/moqui/gradle-4.5/src/platform-jvm" />
+                  <option value="E:/Sunyard/moqui/gradle-4.5/src/platform-native" />
+                  <option value="E:/Sunyard/moqui/gradle-4.5/src/platform-play" />
+                  <option value="E:/Sunyard/moqui/gradle-4.5/src/plugin-development" />
+                  <option value="E:/Sunyard/moqui/gradle-4.5/src/plugin-use" />
+                  <option value="E:/Sunyard/moqui/gradle-4.5/src/plugins" />
+                  <option value="E:/Sunyard/moqui/gradle-4.5/src/process-services" />
+                  <option value="E:/Sunyard/moqui/gradle-4.5/src/publish" />
+                  <option value="E:/Sunyard/moqui/gradle-4.5/src/reporting" />
+                  <option value="E:/Sunyard/moqui/gradle-4.5/src/resources" />
+                  <option value="E:/Sunyard/moqui/gradle-4.5/src/resources-gcs" />
+                  <option value="E:/Sunyard/moqui/gradle-4.5/src/resources-http" />
+                  <option value="E:/Sunyard/moqui/gradle-4.5/src/resources-s3" />
+                  <option value="E:/Sunyard/moqui/gradle-4.5/src/resources-sftp" />
+                  <option value="E:/Sunyard/moqui/gradle-4.5/src/scala" />
+                  <option value="E:/Sunyard/moqui/gradle-4.5/src/signing" />
+                  <option value="E:/Sunyard/moqui/gradle-4.5/src/test-kit" />
+                  <option value="E:/Sunyard/moqui/gradle-4.5/src/testing-base" />
+                  <option value="E:/Sunyard/moqui/gradle-4.5/src/testing-jvm" />
+                  <option value="E:/Sunyard/moqui/gradle-4.5/src/testing-native" />
+                  <option value="E:/Sunyard/moqui/gradle-4.5/src/tooling-api" />
+                  <option value="E:/Sunyard/moqui/gradle-4.5/src/tooling-api-builders" />
+                  <option value="E:/Sunyard/moqui/gradle-4.5/src/version-control" />
+                  <option value="E:/Sunyard/moqui/gradle-4.5/src/workers" />
+                  <option value="E:/Sunyard/moqui/gradle-4.5/src/wrapper" />
+                  <option value="E:/Sunyard/moqui/gradle-4.5/lib/ant-1.9.9.jar" />
+                  <option value="E:/Sunyard/moqui/gradle-4.5/lib/ant-launcher-1.9.9.jar" />
+                  <option value="E:/Sunyard/moqui/gradle-4.5/lib/gradle-base-services-4.5.jar" />
+                  <option value="E:/Sunyard/moqui/gradle-4.5/lib/gradle-base-services-groovy-4.5.jar" />
+                  <option value="E:/Sunyard/moqui/gradle-4.5/lib/gradle-build-cache-4.5.jar" />
+                  <option value="E:/Sunyard/moqui/gradle-4.5/lib/gradle-build-option-4.5.jar" />
+                  <option value="E:/Sunyard/moqui/gradle-4.5/lib/gradle-cli-4.5.jar" />
+                  <option value="E:/Sunyard/moqui/gradle-4.5/lib/gradle-core-4.5.jar" />
+                  <option value="E:/Sunyard/moqui/gradle-4.5/lib/gradle-core-api-4.5.jar" />
+                  <option value="E:/Sunyard/moqui/gradle-4.5/lib/gradle-docs-4.5.jar" />
+                  <option value="E:/Sunyard/moqui/gradle-4.5/lib/gradle-installation-beacon-4.5.jar" />
+                  <option value="E:/Sunyard/moqui/gradle-4.5/lib/gradle-jvm-services-4.5.jar" />
+                  <option value="E:/Sunyard/moqui/gradle-4.5/lib/gradle-kotlin-dsl-0.14.2.jar" />
+                  <option value="E:/Sunyard/moqui/gradle-4.5/lib/gradle-kotlin-dsl-tooling-builders-0.14.2.jar" />
+                  <option value="E:/Sunyard/moqui/gradle-4.5/lib/gradle-kotlin-dsl-tooling-models-0.14.2.jar" />
+                  <option value="E:/Sunyard/moqui/gradle-4.5/lib/gradle-launcher-4.5.jar" />
+                  <option value="E:/Sunyard/moqui/gradle-4.5/lib/gradle-logging-4.5.jar" />
+                  <option value="E:/Sunyard/moqui/gradle-4.5/lib/gradle-messaging-4.5.jar" />
+                  <option value="E:/Sunyard/moqui/gradle-4.5/lib/gradle-model-core-4.5.jar" />
+                  <option value="E:/Sunyard/moqui/gradle-4.5/lib/gradle-model-groovy-4.5.jar" />
+                  <option value="E:/Sunyard/moqui/gradle-4.5/lib/gradle-native-4.5.jar" />
+                  <option value="E:/Sunyard/moqui/gradle-4.5/lib/gradle-persistent-cache-4.5.jar" />
+                  <option value="E:/Sunyard/moqui/gradle-4.5/lib/gradle-process-services-4.5.jar" />
+                  <option value="E:/Sunyard/moqui/gradle-4.5/lib/gradle-resources-4.5.jar" />
+                  <option value="E:/Sunyard/moqui/gradle-4.5/lib/gradle-runtime-api-info-4.5.jar" />
+                  <option value="E:/Sunyard/moqui/gradle-4.5/lib/gradle-tooling-api-4.5.jar" />
+                  <option value="E:/Sunyard/moqui/gradle-4.5/lib/gradle-wrapper-4.5.jar" />
+                  <option value="E:/Sunyard/moqui/gradle-4.5/lib/groovy-all-2.4.12.jar" />
+                  <option value="E:/Sunyard/moqui/gradle-4.5/lib/plugins/gradle-announce-4.5.jar" />
+                  <option value="E:/Sunyard/moqui/gradle-4.5/lib/plugins/gradle-antlr-4.5.jar" />
+                  <option value="E:/Sunyard/moqui/gradle-4.5/lib/plugins/gradle-build-cache-http-4.5.jar" />
+                  <option value="E:/Sunyard/moqui/gradle-4.5/lib/plugins/gradle-build-comparison-4.5.jar" />
+                  <option value="E:/Sunyard/moqui/gradle-4.5/lib/plugins/gradle-build-init-4.5.jar" />
+                  <option value="E:/Sunyard/moqui/gradle-4.5/lib/plugins/gradle-code-quality-4.5.jar" />
+                  <option value="E:/Sunyard/moqui/gradle-4.5/lib/plugins/gradle-composite-builds-4.5.jar" />
+                  <option value="E:/Sunyard/moqui/gradle-4.5/lib/plugins/gradle-dependency-management-4.5.jar" />
+                  <option value="E:/Sunyard/moqui/gradle-4.5/lib/plugins/gradle-diagnostics-4.5.jar" />
+                  <option value="E:/Sunyard/moqui/gradle-4.5/lib/plugins/gradle-ear-4.5.jar" />
+                  <option value="E:/Sunyard/moqui/gradle-4.5/lib/plugins/gradle-ide-4.5.jar" />
+                  <option value="E:/Sunyard/moqui/gradle-4.5/lib/plugins/gradle-ide-native-4.5.jar" />
+                  <option value="E:/Sunyard/moqui/gradle-4.5/lib/plugins/gradle-ide-play-4.5.jar" />
+                  <option value="E:/Sunyard/moqui/gradle-4.5/lib/plugins/gradle-ivy-4.5.jar" />
+                  <option value="E:/Sunyard/moqui/gradle-4.5/lib/plugins/gradle-jacoco-4.5.jar" />
+                  <option value="E:/Sunyard/moqui/gradle-4.5/lib/plugins/gradle-javascript-4.5.jar" />
+                  <option value="E:/Sunyard/moqui/gradle-4.5/lib/plugins/gradle-language-groovy-4.5.jar" />
+                  <option value="E:/Sunyard/moqui/gradle-4.5/lib/plugins/gradle-language-java-4.5.jar" />
+                  <option value="E:/Sunyard/moqui/gradle-4.5/lib/plugins/gradle-language-jvm-4.5.jar" />
+                  <option value="E:/Sunyard/moqui/gradle-4.5/lib/plugins/gradle-language-native-4.5.jar" />
+                  <option value="E:/Sunyard/moqui/gradle-4.5/lib/plugins/gradle-language-scala-4.5.jar" />
+                  <option value="E:/Sunyard/moqui/gradle-4.5/lib/plugins/gradle-maven-4.5.jar" />
+                  <option value="E:/Sunyard/moqui/gradle-4.5/lib/plugins/gradle-osgi-4.5.jar" />
+                  <option value="E:/Sunyard/moqui/gradle-4.5/lib/plugins/gradle-platform-base-4.5.jar" />
+                  <option value="E:/Sunyard/moqui/gradle-4.5/lib/plugins/gradle-platform-jvm-4.5.jar" />
+                  <option value="E:/Sunyard/moqui/gradle-4.5/lib/plugins/gradle-platform-native-4.5.jar" />
+                  <option value="E:/Sunyard/moqui/gradle-4.5/lib/plugins/gradle-platform-play-4.5.jar" />
+                  <option value="E:/Sunyard/moqui/gradle-4.5/lib/plugins/gradle-plugin-development-4.5.jar" />
+                  <option value="E:/Sunyard/moqui/gradle-4.5/lib/plugins/gradle-plugin-use-4.5.jar" />
+                  <option value="E:/Sunyard/moqui/gradle-4.5/lib/plugins/gradle-plugins-4.5.jar" />
+                  <option value="E:/Sunyard/moqui/gradle-4.5/lib/plugins/gradle-publish-4.5.jar" />
+                  <option value="E:/Sunyard/moqui/gradle-4.5/lib/plugins/gradle-reporting-4.5.jar" />
+                  <option value="E:/Sunyard/moqui/gradle-4.5/lib/plugins/gradle-resources-gcs-4.5.jar" />
+                  <option value="E:/Sunyard/moqui/gradle-4.5/lib/plugins/gradle-resources-http-4.5.jar" />
+                  <option value="E:/Sunyard/moqui/gradle-4.5/lib/plugins/gradle-resources-s3-4.5.jar" />
+                  <option value="E:/Sunyard/moqui/gradle-4.5/lib/plugins/gradle-resources-sftp-4.5.jar" />
+                  <option value="E:/Sunyard/moqui/gradle-4.5/lib/plugins/gradle-scala-4.5.jar" />
+                  <option value="E:/Sunyard/moqui/gradle-4.5/lib/plugins/gradle-signing-4.5.jar" />
+                  <option value="E:/Sunyard/moqui/gradle-4.5/lib/plugins/gradle-test-kit-4.5.jar" />
+                  <option value="E:/Sunyard/moqui/gradle-4.5/lib/plugins/gradle-testing-base-4.5.jar" />
+                  <option value="E:/Sunyard/moqui/gradle-4.5/lib/plugins/gradle-testing-jvm-4.5.jar" />
+                  <option value="E:/Sunyard/moqui/gradle-4.5/lib/plugins/gradle-testing-native-4.5.jar" />
+                  <option value="E:/Sunyard/moqui/gradle-4.5/lib/plugins/gradle-tooling-api-builders-4.5.jar" />
+                  <option value="E:/Sunyard/moqui/gradle-4.5/lib/plugins/gradle-version-control-4.5.jar" />
+                  <option value="E:/Sunyard/moqui/gradle-4.5/lib/plugins/gradle-workers-4.5.jar" />
+                  <option value="E:/Sunyard/moqui/gradle-4.5/lib/plugins/ivy-2.2.0.jar" />
+                  <option value="$PROJECT_DIR$/buildSrc/src/main/java" />
+                  <option value="$PROJECT_DIR$/buildSrc/src/main/groovy" />
+                </list>
+              </option>
+            </ExternalProjectBuildClasspathPojo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/Desktop/cbps/source/cbps" value="PREVIEW" />
+        <entry key="E:/Sunyard/城银清/cbps/source/cbps" value="PREVIEW" />
+        <entry key="E:/Sunyard/网联平台/code/njepcc/njepcc" value="PREVIEW" />
+        <entry key="E:/Sunyard/网联平台/金华银行/code/jhnap" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$" value="RE_IMPORT" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/NETTY/ClientHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/NETTY/Server.java" />
+        <option value="$PROJECT_DIR$/src/main/java/NETTY/ServertHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/REST/RestUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/NIO2/NioSocketServer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/NIO/NIOClient.java" />
+        <option value="$PROJECT_DIR$/src/main/java/BIO2/IOClient.java" />
+        <option value="$PROJECT_DIR$/src/main/java/BIO2/IOServer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/NETTY2/NettyClient.java" />
+        <option value="$PROJECT_DIR$/src/main/java/NIO/NIOServer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/NETTY2/NettyServer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/NETTY2/TimeClientHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/NETTY2/TimeClient.java" />
+        <option value="$PROJECT_DIR$/src/main/java/NETTY3/HttpFileClient.java" />
+        <option value="$PROJECT_DIR$/src/main/java/NETTY3/HttpFileClientHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/NETTY3/Constants.java" />
+        <option value="$PROJECT_DIR$/src/main/java/NETTY3/HttpFileServer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/NETTY3/HttpFileServerHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/NETTY3/HttpXmlRequestEncoder.java" />
+        <option value="$PROJECT_DIR$/src/main/java/NETTY3/HttpServer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/NETTY3/HttpServerInitializer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/NETTY3/HttpRequestHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/NETTY3/Application.java" />
+        <option value="$PROJECT_DIR$/src/main/java/NETTY3/ClientHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/NETTY3/Client.java" />
+        <option value="$PROJECT_DIR$/src/main/java/NETTY4/TestServer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/NETTY4/TestServerInitializer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/NETTY4/TestHttpServerHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/NETTY4/HttpHelloWorldServer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/NETTY4/HttpHelloWorldServerInitializer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/NETTY4/HttpHelloWorldServerHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/NETTY4/HttpFileServer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/NETTY4/HttpFileServerHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/NETTY4/Client.java" />
+        <option value="$PROJECT_DIR$/src/main/java/NETTY4/ClientHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/NETTY4/HttpHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/NETTY4/HttpServer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/NETTY2/TimeServer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/NETTY2/TimeServerHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/NETTY5/RpcDecoder.java" />
+        <option value="$PROJECT_DIR$/src/main/java/NETTY5/RpcEncoder.java" />
+        <option value="$PROJECT_DIR$/src/main/java/NETTY5/RpcRequest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/NETTY5/RpcResponse.java" />
+        <option value="$PROJECT_DIR$/src/main/java/NETTY5/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/NETTY5/ClientMain.java" />
+        <option value="$PROJECT_DIR$/src/main/java/NETTY5/ClientHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/NETTY5/NettyClient.java" />
+        <option value="$PROJECT_DIR$/src/main/java/NETTY5/NettyServer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/NETTY5/ServerHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/NETTY5/ServerMain.java" />
+        <option value="$PROJECT_DIR$/src/main/java/NETTY4/ServerIdleStateHandler.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\maven\repo" />
+        <option name="mavenHome" value="D:/maven/apache-maven-3.5.2" />
+        <option name="userSettingsFile" value="D:\maven\apache-maven-3.5.2\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <flattenPackages ProjectPane="true" />
+      <hideEmptyPackages ProjectPane="true" />
+      <abbreviatePackageNames ProjectPane="false" />
+      <autoscrollFromSource ProjectPane="true" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="netty" type="b2602c69:ProjectViewProjectNode" />
+              <item name="netty" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="netty" type="b2602c69:ProjectViewProjectNode" />
+              <item name="netty" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="netty" type="b2602c69:ProjectViewProjectNode" />
+              <item name="netty" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="netty" type="b2602c69:ProjectViewProjectNode" />
+              <item name="netty" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="netty" type="b2602c69:ProjectViewProjectNode" />
+              <item name="netty" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="NETTY4" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="settings.gerrit" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="NETTY4" />
+      <recent name="NIO" />
+      <recent name="BIO" />
+      <recent name="AIO" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\work201910\netty\lib" />
+      <recent name="F:\work201910\netty\src\test" />
+      <recent name="F:\work201910\netty\src\main\java\NIO" />
+      <recent name="F:\work201910\netty\src\main\java\AIO" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Client (1)">
+    <configuration name="Client (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NETTY4.Client" />
+      <module name="netty_main" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="NETTY4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="ClientMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NETTY5.ClientMain" />
+      <module name="netty_main" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="NETTY5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="HttpFileServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NETTY4.HttpFileServer" />
+      <module name="netty_main" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="NETTY4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="HttpServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NETTY4.HttpServer" />
+      <module name="netty_main" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="NETTY4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="ServerMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NETTY5.ServerMain" />
+      <module name="netty_main" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="NETTY5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <list>
+      <item itemvalue="Application.HttpFileServer" />
+      <item itemvalue="Application.HttpServer" />
+      <item itemvalue="Application.Client (1)" />
+      <item itemvalue="Application.ServerMain" />
+      <item itemvalue="Application.ClientMain" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Client (1)" />
+        <item itemvalue="Application.HttpServer" />
+        <item itemvalue="Application.ClientMain" />
+        <item itemvalue="Application.ServerMain" />
+        <item itemvalue="Application.HttpFileServer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="06d0c17c-221a-46ae-9d26-cc7ec48f2e5f" name="Default" comment="" />
+      <created>1571880143677</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571880143677</updated>
+      <workItem from="1571880150969" duration="1372000" />
+      <workItem from="1571968743467" duration="6664000" />
+      <workItem from="1572186008854" duration="2527000" />
+      <workItem from="1572188806663" duration="371000" />
+      <workItem from="1572223691121" duration="4955000" />
+      <workItem from="1572262059227" duration="759000" />
+      <workItem from="1572315556396" duration="19935000" />
+      <workItem from="1572396700391" duration="1037000" />
+      <workItem from="1572442389587" duration="5288000" />
+      <workItem from="1572482759495" duration="665000" />
+      <workItem from="1572495863622" duration="4850000" />
+      <workItem from="1572522917327" duration="7061000" />
+      <workItem from="1572532272072" duration="1502000" />
+      <workItem from="1572587290301" duration="4128000" />
+      <workItem from="1572613971269" duration="2660000" />
+      <workItem from="1572830655368" duration="7590000" />
+      <workItem from="1572872484562" duration="4864000" />
+      <workItem from="1572914551800" duration="811000" />
+      <workItem from="1573129609477" duration="2360000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="79399000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="Gerrit" order="7" weight="0.32843137" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50075644" side_tool="true" weight="0.31862745" />
+      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info anchor="right" id="Database" order="3" weight="0.32980332" />
+      <window_info id="Structure" order="1" sideWeight="0.36956522" side_tool="true" weight="0.21255673" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.44117647" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.50653595" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924356" weight="0.31699347" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32843137" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.6304348" visible="true" weight="0.23524962" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32843137" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.15279879" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info id="Favorites" order="2" sideWeight="0.36596736" side_tool="true" weight="0.21709532" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Build" order="7" weight="0.18464053" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="bottom" id="Build" order="7" visible="true" weight="0.18464053" />
+      <window_info id="Designer" order="2" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info id="Image Layers" order="3" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924356" weight="0.21732026" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" sideWeight="0.36596736" side_tool="true" weight="0.21709532" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32843137" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50075644" side_tool="true" weight="0.31862745" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.50653595" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Gerrit" order="11" weight="0.32843137" />
+      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="13" show_stripe_button="false" />
+      <window_info anchor="right" id="Maven Projects" order="5" />
+      <window_info anchor="right" id="Gradle" order="6" weight="0.15279879" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.6304348" visible="true" weight="0.22768533" />
+      <window_info anchor="right" id="Database" order="7" weight="0.32980332" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+      <window_info id="Structure" order="1" sideWeight="0.36956522" side_tool="true" weight="0.21255673" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32843137" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39869282" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="7" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$PROJECT_DIR$/lib/netty-all-4.1.42.Final.jar!/io/netty/bootstrap/ServerBootstrap.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1700">
+          <caret line="51" column="27" selection-start-line="51" selection-start-column="27" selection-end-line="51" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/NETTY2/TimeClientHandler.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/NETTY3/HttpFileClient.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/NETTY3/HttpFileClientHandler.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/NETTY3/HttpFileServer.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/NETTY3/HttpFileServerHandler.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/NETTY3/Constants.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/NETTY3/HttpXmlRequestEncoder.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/NETTY/MarshallingCodeCFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-66">
+          <caret line="7" column="36" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/NETTY/Receive.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="608">
+          <caret line="45" column="5" lean-forward="true" selection-start-line="45" selection-start-column="5" selection-end-line="45" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/NETTY/ClientHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/NETTY/Send.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="41" selection-start-line="4" selection-start-column="41" selection-end-line="4" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/NETTY/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="775">
+          <caret line="38" column="14" selection-start-line="38" selection-start-column="8" selection-end-line="38" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/NETTY3/Application.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/NETTY4/TestServer.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/NETTY4/TestServerInitializer.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/NETTY4/TestHttpServerHandler.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/NETTY3/HttpServer.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/NETTY3/ClientHandler.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/NETTY3/Client.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/NETTY4/HttpHelloWorldServerInitializer.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/NETTY3/HttpServerInitializer.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/NETTY4/HttpHelloWorldServerHandler.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/NETTY4/HttpHelloWorldServer.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/NETTY3/HttpRequestHandler.java" />
+    <entry file="jar://$PROJECT_DIR$/lib/netty-all-4.1.42.Final.jar!/io/netty/handler/codec/http/HttpObject.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="13" column="18" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/NETTY4/HttpFileServer.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/NETTY4/HttpFileServerHandler.java" />
+    <entry file="jar://$PROJECT_DIR$/lib/netty-all-4.1.42.Final.jar!/io/netty/handler/codec/http/HttpHeaderValues.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="32" column="82" lean-forward="true" selection-start-line="32" selection-start-column="82" selection-end-line="32" selection-end-column="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/netty-all-4.1.42.Final.jar!/io/netty/handler/timeout/IdleStateHandler.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-151">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/netty-all-4.1.42.Final.jar!/io/netty/buffer/ByteBufHolder.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/NETTY2/TimeClient.java" />
+    <entry file="jar://$PROJECT_DIR$/lib/netty-all-4.1.42.Final.jar!/io/netty/handler/codec/http/HttpClientCodec.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="26" column="11" selection-start-line="26" selection-start-column="11" selection-end-line="26" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/NETTY2/TimeServerHandler.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/NETTY2/TimeServer.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/NETTY5/RpcResponse.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/NETTY5/ServerMain.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/NETTY5/RpcRequest.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/NETTY5/RpcDecoder.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/NETTY5/ServerHandler.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/NETTY5/NettyServer.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/NETTY5/ClientHandler.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/NETTY5/RpcEncoder.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/NETTY5/NettyClient.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/NETTY5/ClientMain.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/REST/RestUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="51" column="21" selection-start-line="51" selection-start-column="21" selection-end-line="51" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/NETTY4/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+          <folding>
+            <element signature="e#1025#1670#0" expanded="true" />
+            <element signature="e#1669#1670#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/NETTY4/ClientHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="40" column="57" selection-start-line="40" selection-start-column="57" selection-end-line="40" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/NETTY4/ServerIdleStateHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-333">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/NETTY4/HttpServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="30" column="5" lean-forward="true" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/NETTY4/HttpHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1100">
+          <caret line="79" column="13" lean-forward="true" selection-start-line="79" selection-start-column="13" selection-end-line="79" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>groovy-2.5.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>netty</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Gradle: org.hamcrest:hamcrest-core:1.3</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
