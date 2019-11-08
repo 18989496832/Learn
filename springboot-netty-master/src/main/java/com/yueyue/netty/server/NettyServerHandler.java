@@ -33,6 +33,7 @@ public class NettyServerHandler extends SimpleChannelInboundHandler<MessageBase.
         } else if (msg.getCmd().equals(MessageBase.Message.CommandType.NORMAL)) {
             log.info("收到客户端的业务消息：{}",msg.toString());
             /***
+             * GitHub
              * 1.解包，确认业务种类
              *
              * 2.动态拼接需要处理的业务
